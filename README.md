@@ -12,6 +12,6 @@
 
 
 ## English
-This is only a free auxiliary software, if you use this software, I am not responsible for any direct or indirect loss or damage caused to you. From the moment you use the Software, you will be deemed to have accepted this Disclaimer.
-Commercial use of this software without the written authorization of the author is prohibited; It is forbidden to use this software to maliciously damage computer systems or software environments, etc... Offence.
-If the driver does not load, try turning off Secure Boot (within BIOS) and kernel isolation (Windows Security Center - Device Security), or sign it yourself.
+This is only a free auxiliary software, if you use this software, I am not responsible for any direct or indirect loss or damage caused to you. From the moment you use the Software, you will be deemed to have accepted this Disclaimer.              
+Commercial use of this software without the written authorization of the author is prohibited; It is forbidden to use this software to maliciously damage computer systems or software environments, etc... Offence.            
+If the driver does not load, try turning off Secure Boot (within BIOS) and kernel isolation (Windows Security Center - Device Security), or sign it yourself.          
