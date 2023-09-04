@@ -1,10 +1,10 @@
 # Kernel64
 作者QQ2907783620   
 
-1.这只是一个免费的辅助软件，如果您使用本软件，给您或者直接造成的损失、损害，本人概不负责。从您使用本软件的一刻开始，将视为您已接受本免责声明。                   
+1. 这只是一个免费的辅助软件，如果您使用本软件，给您或者直接造成的损失、损害，本人概不负责。从您使用本软件的一刻开始，将视为您已接受本免责声明。                   
 本软件未经作者书面授权，禁止用于商业用途；禁止使用本软件恶意破环计​​算机系统或软件环境等违法行为。             
-2.由于本人没有正规的签名,用的是泄露的签名,如果驱动无法加载，请手动签名。            
-
+2. 由于本人没有正规的签名,用的是泄露的签名,如果驱动无法加载，请手动签名。
+#                                                                                                   
 1. This is only a free auxiliary software, if you use this software, to you or directly caused by the loss, damage, I am not responsible. From the moment you use this software, will be regarded as you have accepted this disclaimer.           
 This software without written authorization from the author, prohibit the use of commercial purposes; prohibit the use of this software to maliciously break the loop computer system or software environment Illegal behavior.             
 2. As I do not have a formal signature, with a leaked signature, if the driver can not be loaded, please sign manually.                          
